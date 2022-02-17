@@ -1,0 +1,35 @@
+body{
+    background: radial-gradient(circle, rgba(63,227,251,1) 0%, rgba(70,158,252,1) 100%);;
+}
+
+.corPrimaria{
+    background-color: rgba(63,227,251,1);/*cor de fundo*/
+}
+
+.city{
+   font-size: 32px; /*tamanho da fonte*/
+}
+
+.date{
+    font-size: 16px; /*tamanho da fonte*/
+}
+
+.container-temp{
+    display: flex; /*manter span ao lado da div*/
+    justify-content: center; /*centralizando*/
+    background-color: rgba(0,0,0, 0.2); /*cor de fundo*/
+    box-shadow: 3px 6px rgba(0,0,0, 0.6);/*colocando uma sombra na caixa*/
+    cursor: pointer;/*mudando o cursor*/
+
+    font-size: 100px; /*tamanho da fonte*/
+    font-weight: 900; /*colocando em negrito*/
+    text-shadow: 3px 6px rgba(0,0,0, 0.2); /*colocando uma sombra na temperatura*/
+}
+
+.weather{
+    font-size: 32px; /*tamanho da fonte*/
+}
+
+.low-high{
+    font-size: 22px; /*tamanho da fonte*/
+}

@@ -1,0 +1,9 @@
+objetivo fazer site que use uma api para mostrar a temperatura do local, hora, e data 
+
+requisitos 
+
+utilizar geolocalização 
+utilizar cores chamativas 
+utlizar um pre carregamento 
+utilizar favicom 
+hospedagem netlify 
